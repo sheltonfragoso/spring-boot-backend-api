@@ -54,8 +54,8 @@ public class SpringbootBackendApplication implements CommandLineRunner {
 	
 	@Autowired
 	private PedidoRepository pedidoRepository;
-	@Autowired
 	
+	@Autowired
 	private PagamentoRepository pagamentoRepository;
 	
 	@Autowired
